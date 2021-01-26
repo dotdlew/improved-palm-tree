@@ -28,7 +28,7 @@ Assignment
 
 ## Credits
 
-https://github.com/dotdlew/codeRefactor
+https://github.com/dotdlew/improved-palm-tree
 
 ## License
 
