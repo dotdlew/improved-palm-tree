@@ -2,7 +2,7 @@
 
 ## Description 
 
-Daniel Lewis code refactor challenge submission. Jan 2021
+code refactor challenge submission. Jan 2021
 
 ## Installation
 
